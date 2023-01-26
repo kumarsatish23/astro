@@ -127,7 +127,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  color: #2a2a2a;
+  color: #9c0000;
 }
 
 img {
@@ -179,7 +179,7 @@ body {
 .section-heading h2 {
   font-size: 30px;
   text-transform: capitalize;
-  color: #2a2a2a;
+  color: #9c0000;
   font-weight: 700;
   letter-spacing: 0.25px;
   position: relative;
@@ -193,7 +193,7 @@ body {
 }
 
 .section-heading h2 span {
-  color: #fe6b3f;
+  color: #ff5e00;
 }
 
 .main-blue-button a {
@@ -210,7 +210,7 @@ body {
 
 .main-red-button a {
   display: inline-block;
-  background-color: #fe6b3f;
+  background-color: #ff5e00;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -225,7 +225,7 @@ body {
   background-color: #fff;
   font-size: 15px;
   font-weight: 400;
-  color: #fe6b3f;
+  color: #ff5e00;
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
@@ -254,11 +254,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fe6b3f!important;
+  color: #ff5e00!important;
 }
 
 .background-header .nav li a.active {
-  color: #fe6b3f!important;
+  color: #ff5e00!important;
 }
 
 .header-area {
@@ -308,7 +308,7 @@ header
 }
 
 .logo h4 span {
-  color: #fe6b3f;
+  color: #ff5e00;
 }
 
 .background-header .main-nav .logo h4 {
@@ -358,7 +358,7 @@ header
   display: block;
   font-weight: 500;
   font-size: 15px;
-  color: #2a2a2a;
+  color: #9c0000;
   text-transform: capitalize;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -371,17 +371,17 @@ header
 }
 
 .header-area .main-nav .nav li a {
-  color: #2a2a2a;
+  color: #9c0000;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fe6b3f!important;
+  color: #ff5e00!important;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fe6b3f!important;
+  color: #ff5e00!important;
   opacity: 1;
 }
 
@@ -399,14 +399,14 @@ header
   font-family: FontAwesome;
   content: "\f107";
   font-size: 12px;
-  color: #2a2a2a;
+  color: #9c0000;
   position: absolute;
   right: 18px;
   top: 12px;
 }
 
 .background-header .main-nav .nav li.submenu:after {
-  color: #2a2a2a;
+  color: #9c0000;
 }
 
 .header-area .main-nav .nav li.submenu ul {
@@ -432,7 +432,7 @@ header
   opacity: 1;
   display: block;
   background: #f7f7f7;
-  color: #2a2a2a!important;
+  color: #9c0000!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -448,7 +448,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fe6b3f!important;
+  color: #ff5e00!important;
   padding-left: 25px;
 }
 
@@ -588,7 +588,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fe6b3f;
+  color: #ff5e00;
 }
 
 @media (max-width: 1200px) {
@@ -621,7 +621,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #fe6b3f!important;
+    color: #ff5e00!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -682,7 +682,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fe6b3f!important;
+    color: #ff5e00!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -796,7 +796,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #fe6b3f;
+    background: #ff5e00;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -819,7 +819,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #fe6b3f;
+    background: #ff5e00;
     border-radius: 50%;
 }
 
@@ -869,14 +869,14 @@ Banner Style
 .main-banner .left-content h6 {
   text-transform: uppercase;
   font-size: 18px;
-  color: #fe6b3f;
+  color: #ff5e00;
   margin-bottom: 15px;
 }
 
 .main-banner .left-content h2 {
   font-size: 50px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #9c0000;
   line-height: 72px;
 }
 
@@ -886,7 +886,7 @@ Banner Style
 }
 
 .main-banner .left-content h2 span {
-  color: #fe6b3f;
+  color: #ff5e00;
 }
 
 .main-banner .left-content p {
@@ -908,7 +908,7 @@ Banner Style
   background-color: #fff;
   font-size: 15px;
   font-weight: 500;
-  color: #fe6b3f;
+  color: #ff5e00;
   text-transform: capitalize;
   padding: 12px 25px;
   border-radius: 23px;
@@ -1037,7 +1037,7 @@ Services Style
 .our-services .progress-skill-bar h4 {
   font-size: 18px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #9c0000;
   margin-bottom: 14px;
 }
 
@@ -1231,7 +1231,7 @@ Blog
 .our-blog .left-image h4 {
   font-size: 20px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #9c0000;
   margin: 20px 0px 15px 0px;
 }
 
@@ -1270,7 +1270,7 @@ Blog
 .our-blog .right-list .left-content h4 {
   font-size: 20px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #9c0000;
   margin: 20px 0px 15px 0px;
 }
 
@@ -1363,13 +1363,13 @@ form#contact input {
   outline: none;
   font-size: 15px;
   font-weight: 300;
-  color: #2a2a2a;
+  color: #9c0000;
   padding: 0px 20px;
   margin-bottom: 20px;
 }
 
 form#contact input::placeholder {
-  color: #2a2a2a;
+  color: #9c0000;
 }
 
 form#contact textarea {
@@ -1385,13 +1385,13 @@ form#contact textarea {
   outline: none;
   font-size: 15px;
   font-weight: 300;
-  color: #2a2a2a;
+  color: #9c0000;
   padding: 15px 20px;
   margin-bottom: 20px;
 }
 
 form#contact textarea::placeholder {
-  color: #2a2a2a;
+  color: #9c0000;
 }
 
 form#contact button {
@@ -1410,7 +1410,7 @@ form#contact button {
 }
 
 form#contact button:hover {
-  background-color: #fe6b3f;
+  background-color: #ff5e00;
 }
 
 
@@ -1426,7 +1426,7 @@ footer p {
 }
 
 footer p a {
-  color: #fe6b3f;
+  color: #ff5e00;
 }
 
 /* 
